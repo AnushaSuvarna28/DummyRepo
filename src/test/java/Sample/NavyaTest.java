@@ -10,6 +10,7 @@ public class NavyaTest {
 		// TODO Auto-generated method stub
 		System.out.println("This is Navya Suvarna");
 		System.out.println("bfdshf");
+		System.out.println("Pull modified data");
 
 	}
 
